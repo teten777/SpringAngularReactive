@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://book_user:pass@localhost:27017/book_db
+
+server:
+  port: 7789
